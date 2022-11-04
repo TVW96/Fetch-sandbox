@@ -1,0 +1,1 @@
+This is the second sample file I have declared in my Fetch API sandbox folder. 
